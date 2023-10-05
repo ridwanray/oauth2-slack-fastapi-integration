@@ -1,0 +1,13 @@
+
+venv/
+.history/
+__pycache__/
+.idea/
+.vscode/
+.env
+.pytest_cache
+/env
+*.sqlite3
+/logs/
+**/logs/**
+.python-version
